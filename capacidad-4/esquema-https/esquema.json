@@ -2,7 +2,7 @@
   "$metadata": {
     "type": "PruebaIdentidad",
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/CarlaChuquimiaM/onlySchema/main/capacidad-4/esquema-https"
+      "jsonLdContext": "https://raw.githubusercontent.com/CarlaChuquimiaM/onlySchema/main/capacidad-4/esquema-https/contexto.jsonld"
     },
     "version": "1.2"
   },
