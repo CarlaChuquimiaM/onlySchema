@@ -19,8 +19,8 @@
             "@id": "iden3-vocab:fechaExpiracionCarnet",
             "@type": "xsd:integer"
           },
-          "departamento": {
-            "@id": "iden3-vocab:departamento",
+          "departament": {
+            "@id": "iden3-vocab:departament",
             "@type": "xsd:string"
           }
         },

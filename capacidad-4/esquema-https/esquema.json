@@ -47,8 +47,8 @@
           "minimum": 20000101,
           "type": "integer"
         },
-        "departamento": {
-          "description": "Departamento",
+        "departament": {
+          "description": "Departament",
           "enum": [
             "La Paz",
             "Oruro",
@@ -60,14 +60,14 @@
             "Beni",
             "Pando"
           ],
-          "title": "Departamento",
+          "title": "Departament",
           "type": "string"
         }
       },
       "required": [
         "fechaNacimiento",
         "fechaExpiracionCarnet",
-        "departamento"
+        "departament"
       ],
       "type": "object"
     },
