@@ -2,10 +2,12 @@
   "$metadata": {
     "type": "PruebaIdentidad",
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/CarlaChuquimiaM/onlySchema/main/capacidad-4/esquema-https/contexto.jsonld"
+      "jsonLdContext":"https://raw.githubusercontent.com/CarlaChuquimiaM/onlySchema/refs/heads/main/capacidad-4/esquema-https/contexto.jsonld"
     },
-    "version": "1.3"
+    "version": "1.4"
   },
+
+  
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "description": "Prueba de carnet ficticio para votar",
   "title": "prueba identidad",
